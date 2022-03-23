@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.0.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/hw7.dir/hw7.cpp.o CMakeFiles/hw7.dir/Repeater.cpp.o CMakeFiles/hw7.dir/Extractor.cpp.o CMakeFiles/hw7.dir/Variator.cpp.o CMakeFiles/hw7.dir/Sequence.cpp.o -o hw7 

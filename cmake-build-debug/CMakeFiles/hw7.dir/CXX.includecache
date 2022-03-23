@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/skypioneer/OneDrive - Seattle University/CSFC/2021 Winter Quarter/Object-Oriented Concepts/Assignments/hw7/Extractor.cpp
+Extractor.h
+/Users/skypioneer/OneDrive - Seattle University/CSFC/2021 Winter Quarter/Object-Oriented Concepts/Assignments/hw7/Extractor.h
+
+/Users/skypioneer/OneDrive - Seattle University/CSFC/2021 Winter Quarter/Object-Oriented Concepts/Assignments/hw7/Extractor.h
+Sequence.h
+/Users/skypioneer/OneDrive - Seattle University/CSFC/2021 Winter Quarter/Object-Oriented Concepts/Assignments/hw7/Sequence.h
+vector
+-
+
+/Users/skypioneer/OneDrive - Seattle University/CSFC/2021 Winter Quarter/Object-Oriented Concepts/Assignments/hw7/Inverter.h
+Sequence.h
+/Users/skypioneer/OneDrive - Seattle University/CSFC/2021 Winter Quarter/Object-Oriented Concepts/Assignments/hw7/Sequence.h
+string
+-
+
+/Users/skypioneer/OneDrive - Seattle University/CSFC/2021 Winter Quarter/Object-Oriented Concepts/Assignments/hw7/Sequence.h
+string
+-
+Inverter.h
+/Users/skypioneer/OneDrive - Seattle University/CSFC/2021 Winter Quarter/Object-Oriented Concepts/Assignments/hw7/Inverter.h
+vector
+-
+
